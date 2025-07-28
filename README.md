@@ -1,9 +1,9 @@
 # 類音検索ツール（Sound-Alike Search）
 
-**Author:** Semjaza D Rain (しぇみはざ)  
-**GitHub:** https://github.com/SemjazaDRain/sa_search_bin
+**Author:** Semjaza（しぇみはざ）  
+**GitHub:** https://github.com/SemjazaJP/sa_search_bin
 
-📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaDRain/sa_search_bin/releases/tag/v2025.07.20.00.b-pre)
+📥 [最新版をダウンロード（GitHub Releases）](https://github.com/SemjazaJP/sa_search_bin/releases/tag/v2025.07.20.00.b-pre)
 
 このリポジトリは、Sound-Alike Search の **実行バイナリ配布専用** です。  
 ソースについては **実装があまりに汚いので別途調整中** です。
@@ -79,8 +79,8 @@ UniDic配布の辞書を活用し、音韻パターンによる検索が可能�
 
 ## 👤 作者情報
 
-- 名前：Semjaza D Rain（しぇみはざ）  
-- GitHub： https://github.com/SemjazaDRain  
+- 名前：Semjaza（しぇみはざ）
+- GitHub： https://github.com/SemjazaJP
 - X（旧Twitter）： [@Shemi_haza](https://x.com/Shemi_haza)
 
 ---
